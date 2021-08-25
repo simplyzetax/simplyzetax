@@ -21,7 +21,7 @@ In my freetime, I like to play Tennis and create new and unique websites
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ZetaxFTW">
+<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZetaxFTW&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZetaxFTW&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -30,10 +30,8 @@ In my freetime, I like to play Tennis and create new and unique websites
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://finnfinity.com"><img src="https://img.shields.io/badge/-zetax.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a></a>
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-zetax.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a></a>
 <a href="mailto:ernzerhofffinn@icloud.com"><img src="https://img.shields.io/badge/-ernzerhofffinn@icloud.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
-
-Last Edited on: 11/12/2020
