@@ -1,26 +1,20 @@
 
-<h2>Hey there! I'm Finn</h2>
+# Hi, I'm Finn! 👋
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+Hi, my name is Finn. I am a front-end developer looking for a new opportunity. I have experience with React, NodeJS, and have been working on web apps for the past 2 years. I strive to be exceptional at what I do and am always looking for new opportunities.
 
-### 👨🏻‍💻 &nbsp;About Me
+I get very excited when I find things in life that I can be passionate about. I am very devoted to my work and consider myself a true team player.
 
-I love to learn new skills and work in a team.
-In my freetime, I like to play Tennis and create new and unique websites
+I am currently working as a freelancer at [@AbstractCreations](https://github.com/AbstractCreations) and accepting commisions
+## Tech Stack
 
-### 🛠 &nbsp;My skills
+**Client:** React, VueJS, Plain HTML and CSS
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,html,css,ts)](https://github.com/Jurredr/github-widgetbox)
+**Server:** Node, Express
 
-### ⚙️ &nbsp;GitHub Analytics
+
+## Contributions
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ZetaxFTW&data=followers,repositories,stars,commits)](https://github.com/ZetaxFTW/github-widgetbox)
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://finnfinity.com"><img src="https://img.shields.io/badge/-zetax.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a></a>
-<a href="mailto:ernzerhofffinn@icloud.com"><img src="https://img.shields.io/badge/-ernzerhofffinn@icloud.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
------
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZetaxFTW&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
