@@ -17,4 +17,6 @@ I am currently working as a freelancer at [@AbstractCreations](https://github.co
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ZetaxFTW&data=followers,repositories,stars,commits)](https://github.com/ZetaxFTW/github-widgetbox)
 
+![Finn's stats](https://github-readme-stats.vercel.app/api?username=ZetaxFTW&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZetaxFTW&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
