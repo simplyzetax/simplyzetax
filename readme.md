@@ -18,3 +18,7 @@ I am currently working as a freelancer at [@AbstractCreations](https://github.co
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ZetaxFTW&data=followers,repositories,stars,commits)](https://github.com/ZetaxFTW/github-widgetbox)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gs8k0e87h10ohyc8rpjgfa9te&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zetaxftw&&style=flat-square" align="center" />
+</div>  
