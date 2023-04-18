@@ -1,9 +1,9 @@
 
 # Hi, I'm Finn! 👋
 
-Hi, my name is Finn. I am a front-end developer looking for a new opportunity. I have experience with React, NodeJS, and have been working on web apps for the past 2 years. I strive to be exceptional at what I do and am always looking for new opportunities. I am very devoted to my work and consider myself a true team player.
+I am a full stack and software developer
 
-I am currently a student in Rheinland Pfalz
+[![Discord Presence](https://lanyard.cnrad.dev/api/1070096922314031235)](https://discord.com/users/1070096922314031235)
 
 ## Tech Stack
 
