@@ -9,7 +9,7 @@ I am a full stack and software developer
 
 **Client:** React, NextJS, Plain HTML, CSS, JavaScript, SQL, Java
 
-**Server:** Node
+**Server:** Node, Golang
 
 ![Profile summary](https://github-readme-stats.vercel.app/api?username=Finninn&icons=true&hide_border=true&count_private=true)
 
