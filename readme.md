@@ -1,16 +1,21 @@
+# Hi there, I'm Finn! 👋
 
-# Hi, I'm Finn! 👋
-
-I am a full stack and software developer
+Welcome to my GitHub profile! I am a full stack and software developer passionate about creating innovative solutions. Here, you'll find some of my projects and contributions. Feel free to explore and reach out!
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1070096922314031235)](https://discord.com/users/1070096922314031235)
 
-I know the languages
+## Skills
+
+I am proficient in the following languages and technologies:
 
 - Go
-- JavaScript (Mainly using TypeScript)
+- JavaScript (mainly using TypeScript)
 - HTML
 - CSS
 - JSX
 
-<img src="https://komarev.com/ghpvc/?username=zetaxftw&&style=flat-square" align="center" />
+## Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=zetaxftw&&style=flat-square" alt="Profile Views" align="center" />
+
+I appreciate your visit and interest in my work. If you have any questions or would like to collaborate, feel free to reach out. Let's create something amazing together!
